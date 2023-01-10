@@ -1,7 +1,7 @@
 import scrapy
 
 class SpiderSpider(scrapy.Spider):
-    name = 'spider'
+    name = 'numbeo-ccli'
     allowed_domains = ['numbeo.com']
     start_urls = ['https://www.numbeo.com/cost-of-living/rankings_current.jsp']
 
