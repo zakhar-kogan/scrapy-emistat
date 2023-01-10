@@ -1,5 +1,5 @@
 # default settings for scrapy
 BOT_NAME = 'scrapy_numbeo_ccli'
 
-SPIDER_MODULES = ['crapy_numbeo_ccli.spider']
-NEWSPIDER_MODULE = 'crapy_numbeo_ccli.spider'
+SPIDER_MODULES = ['scrapy_numbeo_ccli.spider']
+NEWSPIDER_MODULE = 'scrapy_numbeo_ccli.spider'
