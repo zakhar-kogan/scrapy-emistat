@@ -1,4 +1,4 @@
-# Scrapy Numbeo CCLI Parser
+# QoL data Parser
 A Scrapy (Zyte) module to parse Numbeo's City Cost of Life Index and a couple of other websites for the Relocation QoL model service we're planning to launch.
 ## Usage
 
